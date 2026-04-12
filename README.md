@@ -80,6 +80,7 @@ Me apasiona construir soluciones completas: desde el diseño de la base de datos
 - Autenticación y autorización con JWT y control de acceso por roles
 - Integración de Stripe para simulación de flujos de pago
 - Contenerizado con Docker y documentado con Swagger/OpenAPI
+- Repositorio: [Gestion-restaurante-api](https://github.com/Alejo224/Gestion-restaurante-api)
 
 ---
 
@@ -89,6 +90,7 @@ Me apasiona construir soluciones completas: desde el diseño de la base de datos
 - **Stack:** JavaScript · HTML5 · CSS3
 - Gestión dinámica de reservas en tiempo real
 - Manejo asíncrono de peticiones HTTP y renderizado dinámico del DOM
+- Repositorio: [restaurante-frontend](https://github.com/Alejo224/restaurante-frontend)
 
 ---
 
