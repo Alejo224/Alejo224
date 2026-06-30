@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Johan Alejandro Angulo Torres</h1>
+<h1>Alejo224</h1>
 <h3>Desarrollador Full Stack Junior · Java · Spring Boot · Angular · PostgreSQL</h3>
 
 <a href="https://www.linkedin.com/in/johan-alejandro-angulo-533516321" target="_blank">
@@ -19,7 +19,7 @@
 
 ## Sobre mí
 
-Soy estudiante de **Tecnología en Desarrollo de Software** (6.º semestre, Universidad del Valle — Tuluá, Colombia) con experiencia práctica desarrollando APIs REST con Java y Spring Boot, aplicaciones frontend con Angular, y despliegues con Docker.
+Soy estudiante de **Tecnología en Desarrollo de Software** (6.º semestre, Universidad del Valle, Colombia) con experiencia práctica desarrollando APIs REST con Java y Spring Boot, aplicaciones frontend con Angular, y despliegues con Docker.
 
 Me apasiona construir soluciones completas: desde el diseño de la base de datos hasta la interfaz de usuario. Actualmente busco una **práctica profesional o rol junior remoto** donde pueda aportar desde el primer día.
 
@@ -124,9 +124,8 @@ Me apasiona construir soluciones completas: desde el diseño de la base de datos
 
 <div align="center">
 
-📧 johantorresalejo19@gmail.com
+📧 johantorresalejo224@gmail.com
 &nbsp;·&nbsp;
-📍 Tuluá, Colombia
 &nbsp;·&nbsp;
 🌐 Disponible para trabajo remoto
 
